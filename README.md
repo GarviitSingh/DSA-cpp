@@ -25,3 +25,12 @@
 - Time Complexity
 - Space Complexity
 
+## Day 4 – Language Basics (Extended)
+- Bitwise Operators (&, |, ^, <<, >>)
+- Operator Precedence
+- Scope (Local vs Global)
+- Data Type Modifiers
+  - short
+  - long long
+  - signed
+  - unsigned
