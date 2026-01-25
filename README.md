@@ -34,3 +34,9 @@
   - long long
   - signed
   - unsigned
+
+## Day 5 – Revision & Basic Maths
+- Revised previous concepts
+- Practiced homework questions
+- Started Basic Maths
+- Digit extraction (count digits, reverse, basic understanding)
