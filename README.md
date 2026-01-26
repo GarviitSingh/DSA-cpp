@@ -40,3 +40,14 @@
 - Practiced homework questions
 - Started Basic Maths
 - Digit extraction (count digits, reverse, basic understanding)
+
+## Day 6 – STL (Sequence Containers)
+- Vector
+  - Basic operations
+  - Capacity vs size
+  - Insert, erase, clear
+- Vector Iterators
+  - `begin`, `end`
+  - `rbegin`, `rend`
+- List (Doubly Linked List)
+- Deque (Double Ended Queue) 
