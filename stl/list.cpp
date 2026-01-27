@@ -3,7 +3,7 @@
 using namespace std;
 
 //List - doubly linekd list - list<int> l = {1,2,3};
-/*int main() {
+int main() {
 	list <int> l;
 	l.push_back(5);
 	l.push_back(6);
@@ -23,5 +23,5 @@ using namespace std;
 
 	cout << endl;
 	return 0;
-}*/
+}
 //size,erase,clear,begin,end,rbegin,rend,insert,front,back are also present in list 
