@@ -50,4 +50,17 @@
   - `begin`, `end`
   - `rbegin`, `rend`
 - List (Doubly Linked List)
-- Deque (Double Ended Queue) 
+- Deque (Double Ended Queue)
+
+## Day 7 – STL (Containers & Algorithms)
+- Pair
+- Stack
+- Queue
+- Priority Queue
+- Map
+- Multimap & Unordered Map
+- Set
+- Multiset & Unordered Set
+- STL Algorithms
+
+
