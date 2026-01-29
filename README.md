@@ -63,4 +63,16 @@
 - Multiset & Unordered Set
 - STL Algorithms
 
+### Day 8 – Patterns (Loops Practice)
+
+- Star patterns
+  - Square, triangle, pyramid variations
+- Number patterns
+  - Increasing / decreasing numbers
+- Alphabet patterns
+  - Character-based patterns (A, B, C…)
+- Improved understanding of:
+  - Nested loops
+  - Row–column logic
+  - Pattern observation
 
