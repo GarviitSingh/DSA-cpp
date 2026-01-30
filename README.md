@@ -64,7 +64,6 @@
 - STL Algorithms
 
 ### Day 8 – Patterns (Loops Practice)
-
 - Star patterns
   - Square, triangle, pyramid variations
 - Number patterns
@@ -76,3 +75,11 @@
   - Row–column logic
   - Pattern observation
 
+## Day 9 – Patterns Problems
+- Triangle Patterns
+- Reverse Triangle Pattern
+- Floyd’s Triangle
+- Inverted Triangle Pattern
+- Pyramid Pattern
+- Hollow Diamond Pattern
+- Butterfly Pattern
