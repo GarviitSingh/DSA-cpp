@@ -83,3 +83,9 @@
 - Pyramid Pattern
 - Hollow Diamond Pattern
 - Butterfly Pattern
+
+## Day 10 – Pointers & Memory
+- Memory address (&)
+- Pointers and dereferencing
+- NULL / nullptr
+- Pass by reference
