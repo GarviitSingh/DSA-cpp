@@ -89,3 +89,15 @@
 - Pointers and dereferencing
 - NULL / nullptr
 - Pass by reference
+
+## Day 11 – Binary Search (Basics)
+- Binary search concept and real-life examples
+- Where binary search is applicable
+- Iterative binary search implementation
+- Time complexity: O(log N)
+- Space complexity: O(1)
+
+## Day 12 – Binary Search (Problems)
+- Search in Rotated Sorted Array
+- Find Peak Element (Mountain Array)
+- Time Complexity: O(log n)
