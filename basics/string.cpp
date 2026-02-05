@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     string s = "Computer";
 
-    // length of string
+    // length of stringS
     int len = s.size();
     cout << "Length: " << len << endl;
 
